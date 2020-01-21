@@ -1,12 +1,12 @@
-### Who am I ?
+### ·Who am I ?
 #### 姓名：谢忠俊
 #### 学历：大学本科在读
 #### 学校：浙江万里学院
 #### 邮箱：781572496@qq.com
 #### 地址：浙江
 
-### Where I come from ?
+### ·Where I come from ?
 #### 山边海前一个小小的村庄
  
-### Where I want to go ?
+### ·Where I want to go ?
 #### 海的另一边，那个没见过的世界
