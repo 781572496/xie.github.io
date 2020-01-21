@@ -1,3 +1,18 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>谢忠俊</h1>
+      <p><b>大学本科在读</b></p>
+      <p><b>浙江万里学院大学</b></p>
+      <p><b>邮箱：781572496@qq.com</b></p>
+      <p><b>地址：浙江，邮编325611</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ### ·Who am I ?
 #### 姓名：谢忠俊
 #### 学历：大学本科在读
