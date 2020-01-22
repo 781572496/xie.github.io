@@ -8,7 +8,7 @@
       <p><b>地址：浙江 邮编：325611</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_2431谢忠俊（白）.jpg" width="100%">     
+      <img src="/IMG_2431谢忠俊（白）.jpg" width="50%">     
     </td>
   </tr>
 </table>
