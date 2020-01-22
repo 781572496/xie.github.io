@@ -8,8 +8,7 @@
       <p><b>地址：浙江 邮编：325611</b></p>
     </td>
     <td width="25%">
-      <img src="[2]" width="100%">  
-      [2]: xie.jpg
+      <img src="xie.jpg" width="100%">  
     </td>
   </tr>
 </table>
