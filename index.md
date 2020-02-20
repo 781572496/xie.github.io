@@ -31,3 +31,6 @@
 
 ### 记2020年2.16，这个寒假就要结束了，发生了很多[事情][2]啊！
 [2]: shiqing.md
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
