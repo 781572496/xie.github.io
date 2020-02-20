@@ -20,9 +20,10 @@
 #### 邮箱：781572496@qq.com
 #### 地址：浙江
 
-## ☆Where I come from ?
+### ☆Where I come from ?
 #### 山边海前一个小小的村庄 
-## ☆Where I want to go ?
+
+### ☆Where I want to go ?
 #### 海的另一边，那个没见过的世界
 
 ### 来看看我的[经历][1]吧!
