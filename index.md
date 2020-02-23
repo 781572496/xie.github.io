@@ -27,11 +27,11 @@
 #### 海的另一边，那个没见过的世界
 
 ### 来看看我的[经历][1]吧!
-#### 　　　　点这里☝点这里
+#### 　　　点这里☝点这里
 [1]: jingli.md
 
 ### 记2020年2.16，这个寒假就要结束了，发生了很多[事情][2]啊！
-#### 　　　　　　　　　　　　　　　　　　　　　　　　　点这里☝点这里
+#### 　　　　　　　　　　　　　　　　　　　　　　　　点这里☝点这里
 [2]: shiqing.md
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
