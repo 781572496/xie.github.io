@@ -33,6 +33,10 @@
 ### 记2020年2.16，这个寒假就要结束了，发生了很多[事情][2]啊！
 #### 　　　　　　　　　　　　　　　　　　　　　　　　点这里☝点这里
 [2]: shiqing.md
+
+### 记2020年8.03，时间过得好快好快，一下子就到暑假中旬啦，今天发生了好开心的事情[(｡◕ˇ∀ˇ◕)][3]，让我想起来回来记录一下啦。
+[3]:tingting.md
+
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
