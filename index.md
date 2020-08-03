@@ -34,8 +34,9 @@
 #### 　　　　　　　　　　　　　　　　　　　　　　　　点这里☝点这里
 [2]: shiqing.md
 
-### ☆记2020年8.03，时间过得好快好快，一下子就到暑假中旬啦，今天发生了好开心的事情    [(｡◕ˇ∀ˇ◕)][3]，让我想起来回来记录一下啦。
-[3]:tingting.md
+### ☆记2020年8.03，时间过得好快好快，一下子就到暑假中旬啦，今天发生了好开心的事情,
+### [(｡◕ˇ∀ˇ◕)][3]，让我想起来回来记录一下啦。
+[3]: tingting.md
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
