@@ -38,7 +38,7 @@
 ### [(｡◕ˇ∀ˇ◕)][3]，让我想起来回来记录一下啦。
 [3]: tingting.md
 
-### 在这里挂一个超厉害的小学妹的网站[链接][4]~
+### 在这里挂一个超厉害的小学弟的网站[链接][4]~
 [4]: https://www.xiinnn.com/
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
