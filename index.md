@@ -39,7 +39,7 @@
 [3]: tingting.md
 
 ### 在这里挂一个挺厉害的小学妹的网站[链接][4]~
-[4]: www.xiinnn.com
+[4]: https://www.xiinnn.com/
 
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
