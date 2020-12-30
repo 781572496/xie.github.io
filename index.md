@@ -40,7 +40,7 @@
 
 ### 在这里挂一个超厉害的小学弟的网站[链接][4]~
 [4]: https://www.xiinnn.com/
-
+### 下压缩包解压的时候会发现,如果文件太大会提示盘空间不够,但是我解压的地方明明不是盘呀,这是因为C盘被作为了临时文件存放区,可以修改压缩软件,选项→设置→修改临时的路径.如此即可
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
